@@ -1,0 +1,12 @@
+*.env
+*__pycache__/
+*.txt
+*.sqlite
+*.ftr
+**/tweet_data/*
+**/user_data/*
+*.DS_Store
+*.ipynb_checkpoints/*
+gephi_data/*
+**/datasets/county_subdivs/*
+*~*
